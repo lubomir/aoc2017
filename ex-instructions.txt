@@ -1,0 +1,3 @@
+pq inc -45 if cfa == 7
+pq inc 4 if f >= 0
+pq dec -168 if u < 2
